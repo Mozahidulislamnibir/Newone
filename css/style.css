@@ -12,7 +12,7 @@
 #header .right-links {
     display: inline-flex;
     align-self: flex-end;
-    padding: 9px 0px;
+    padding: -5px 0px;
    
     /* border: 1px solid red; */
 }
@@ -35,18 +35,18 @@
 #nav .logo{
     height: 40px;
     padding: 12px 0px;
-    margin-top: 2px;
+    margin-top: -10px;
 }
 #nav .nav-link{
     display: inline-flex;
     align-self: flex-end;
-    padding: 22px 0px;
+    padding: 0px 0px;
 }
 #nav .nav-link a{
     color: var(--black);
     font-size: 14px;
     line-height: 24px;
-    padding: 28px 8px;
+    padding: 20px 8px
 }
 #nav .nav-link a:hover{
     color: var(--brand1);
@@ -362,7 +362,7 @@
         padding:4px 0px ;
         /* display: inline-block; */
         margin-top: 24px;
-        width: 17%;
+        width: 20%;
      }
 
 #Portfolio .image_body {
@@ -778,7 +778,4 @@ footer .four li img {
     display: inline-block;
     color: var(--brand1);
 }
-/*  Testimonial :end */
-/* footer part start */
-
 /* footer part end */

@@ -105,6 +105,7 @@ ul li{
 .row{
     display: flex;
     flex-wrap: wrap;
+    align-items: center;
 }
 .col-1,
 .col-2,
